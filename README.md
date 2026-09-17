@@ -229,7 +229,7 @@ LEFT / RIGHT / OFF
 
 ## 👨‍💻 Project By
 
-SaiMadhuri Samineedi
+Syed Islamuddin
 
 B.Tech – Electronics and Communication Engineering
 
